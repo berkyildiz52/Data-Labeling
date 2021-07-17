@@ -1,0 +1,12 @@
+{
+  "user id": 3,
+  "user name": "RandomLabeler3",
+  "user type": "LabelingBot",
+  "Number Of DataSets Assigned": 1,
+  "Datasets And Their Completeness Percentages": "((\"Sentiment Dataset\"with id 1 :50.0%))",
+  "Total Number Of Instances Labeled": 5,
+  "Total Number Of Unique Instances Labeled": 5,
+  "Consistency Percentage": "NaN",
+  "Average Time Spent": "1.2 seconds",
+  "Standart Deviation Of Time Spent": 0.44721359549995804
+}

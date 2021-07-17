@@ -1,0 +1,43 @@
+{
+"dataset id":2,
+"dataset name":"Multilabel Topic Classification Dataset",
+"maximum number of labels per instance":10,
+"class labels":[ 
+{"label id":1,"label text":"bayi "}, 
+{"label id":2,"label text":"numara "}, 
+{"label id":3,"label text":"hat "}, 
+{"label id":4,"label text":"işlem"}, 
+{"label id":5,"label text":"müşteri"}, 
+{"label id":6,"label text":"bilgi "}, 
+{"label id":7,"label text":"telefon"}, 
+{"label id":8,"label text":"konu "}, 
+{"label id":9,"label text":"firma "}, 
+{"label id":10,"label text":"cihaz"}, 
+{"label id":11,"label text":"borç "}, 
+{"label id":12,"label text":"fatura "}, 
+{"label id":13,"label text":"taraf"}, 
+{"label id":14,"label text":"paket"} 
+],
+"instances":[
+{"id":1, "instance":"35 tl kesinti yapmış turkcell'den üzerime kayıtlı numara olmamasına rağmen iki aydır ekstremden 35'er tl. kesilmiştir."},
+{"id":2, "instance":"tele kurye işık hızında turkcell'den aldığım cihaz tele kurye denen ilgisiz, telefonlara bakmayan bir kurye tarafından 10 gündür elime ulaşılmadı." },
+{"id":3, "instance":"3 gün önce fiber bağlandı, 20 dakika kullandık internet gitti."},
+{"id":5, "instance":"turkcell internet paketim bitince bana sormadan otomatik olarak 1 gb internet tanımlamış ve 10 tl yansıtmış, ayrıca fatura kesim tarihim 1 gün kala bu paketi tanımlamış "},
+{"id":6, "instance":"Yaklaşık bir aydır Türkiye'den yurt dışı arama yaptığımda başka yer çıkıyor ve aradığım numara ile görüşme yapamıyorum."},
+{"id":7, "instance":"Faturalı hattan dolayı icraya verildim üzerime telefon da vardı bu borcu yaklaşık 10 ay önce kapattım. Fakat e devlette halen gözüküyor. "},
+{"id":8, "instance":"Telefonuma virüs bulaştı ve adıma **** uygulamasından sanal kart açılarak 250 TL para kullanıldı "},
+{"id":9, "instance":"herhangi bir onay istemeden kendi doğrultunuzda faturama 68 TL üye olduğuma dair fiyat çıkardınız. "},
+{"id":10, "instance":"ürünüm 3-4 aydır özellikle akşamları çok düşük ve kullanılmayacak kadar kötü bir seviyede hız sağlıyor."},
+{"id":11, "instance":" 30 liraya 15 GB ek internet paketi yaptığım halde 9.53 te hattına internet aşım paketi tanımladılar."},
+{"id":12, "instance":"Banka kartımdan  hiçbir borcum olmadı halde iznim ve bilgim dışında toplamda 3000 TL çekilmiştir. "},
+{"id":13, "instance":" taahhüt bitmeden beni arıyorlar bitecek taahhüdünüz deyip ürün sunuyorlar, uymadığı için sunduğu paketler kapatıyorum telefonu başka operatöre geçeceğim diyorum"},
+{"id":14, "instance":" şehir merkezinde olduğum halde şebeke çekmiyor"},
+{"id":15, "instance":"Bağlattığım günden beri 7535**72 aboneliğimin hız problemi giderilmiyor. "},
+{"id":16, "instance":" Dijital operatörden kontrol ettim %17 kalmış hiç kullanmadığım internet neden bu kadar çabuk bitti? "},
+{"id":17, "instance":"Oturduğum bölge/bina/evimdeki çekim gücünden şikayetçiyim."},
+{"id":18, "instance":" Defalarca kayıt bırakmama rağmen bölgemizde şebeke problemi yaşamaktayız."},
+{"id":19, "instance":"2 haftadır bu sorunu yaşıyorum sürekli olarak hattı okumuyor ve hizmet yok diyor çözülsün artık "},
+{"id":20, "instance":" yıllardır kullanmama on taneye yakın telefon almama rağmen bir akıllı faturayı bana hediye vermediler v"}
+
+]
+} 

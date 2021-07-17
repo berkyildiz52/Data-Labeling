@@ -1,0 +1,41 @@
+{
+  "configInfo":[
+    
+    {
+      
+      "users":[
+        {
+          "userId":"1","userName":"RandomLabeler1","userPassword":"", "userType":"LabelingBot", "consistencyCheckProbablity":"0.3"
+        },
+        {
+          "userId":"2","userName":"RandomLabeler2","userPassword":"","userType":"LabelingBot","consistencyCheckProbablity":"0.3"
+        },
+        {
+          "userId":"3","userName":"RandomLabeler3","userPassword":"","userType":"LabelingBot","consistencyCheckProbablity":"0.3"
+        },
+        {
+          "userId":"4","userName":"aydýn","userPassword":"12345","userType":"human","consistencyCheckProbablity":"0.3"
+        },
+        {
+          "userId":"4","userName":"mustafa","userPassword":"12345","userType":"human","consistencyCheckProbablity":"0.3"
+        },
+        {
+          "userId":"4","userName":"berk","userPassword":"12345","userType":"human","consistencyCheckProbablity":"0.3"
+        }
+      ],
+   
+     "datasets":[
+       
+        {
+          "datasetId":"1", "filePath":"input2.json"
+        },
+        {
+          "datasetId":"2", "filePath":"input1.json"
+        }
+      ]
+
+    }
+
+  ]
+
+}

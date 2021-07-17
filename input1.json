@@ -1,0 +1,18 @@
+{
+"dataset id":1,
+"dataset name":"Sentiment Dataset",
+"maximum number of labels per instance":1,
+"class labels":[ {"label id":1,"label text":"Positive"}, {"label id":2,"label text":"Negative"}, {"label id":3,"label text":"Notr"} ],
+"instances":[
+{"id":21, "instance":"aldım eve gidince kutusundan çıkardım hasarlıydı"},
+{"id":22, "instance":"yöneticisi bizzat ilgilenerek gerekli özverili örneği göstererek güzel teşekkürler"},
+{"id":23, "instance":"mesela kamerası aldık yoktu"},
+{"id":24, "instance":"siteniz çalışmıyor kaç gündür"},
+{"id":25, "instance":"şimdilik memnun kaldım umarım kararım değişmez"},
+{"id":26, "instance":"durduğu yerde sessiz moduna geçmesi başta fazla giden bataryasının ayda kapasitesinin ciddi anlamda düşmesi dışında fiyatı düşünüldüğünde iyi"},
+{"id":27, "instance":"filmin büyük artısı uzun zamandır görmediğimiz oyunculuğunu döktürmesini sağlamasıydı"},
+{"id":28, "instance":"şarjı hemen bitiriyor"},
+{"id":29, "instance":"in yeni kampanyasi cok basarili"},
+{"id":30, "instance":"kullanışlı fiyata alınabilecek güzel düsünmeden alabilirsiniz"}
+]
+} 

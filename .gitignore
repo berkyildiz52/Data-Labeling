@@ -1,0 +1,17 @@
+
+/DataSet.class
+/LabelAssignment.class
+/OutputProducer.class
+/Instance.class
+/Label.class
+/Main.class
+/Parser.class
+/User.class
+.*
+!/.gitignore
+.classpath
+/bin/
+/LabelingMission.java
+/LabelingSystem.java
+/RandomLabelingMission.java
+/executionLogs.txt
